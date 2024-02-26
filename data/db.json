@@ -1,0 +1,85 @@
+{
+    "houses": [
+      {
+        "id": 1,
+        "title": "Modern Apartment in City Center",
+        "description": "Beautiful apartment with stunning views of the city skyline. Conveniently located in the heart of downtown.",
+        "price": 250000,
+        "category": "Apartment",
+        "image": "https://th.bing.com/th/id/R.8e627feaf3b0de6d24e59aefb1f99680?rik=c75WGsM1Zx9xHw&riu=http%3a%2f%2fwww.cube3studio.com%2fwp-content%2fuploads%2f2015%2f04%2fApartments-in-Wakefield-Exterior-Dusk.jpg&ehk=wRe0NQWqR34TO1QAVV%2bV9pzlHXQtk52DlmjIlJGADD4%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 2,
+        "title": "Cozy Suburban Home",
+        "description": "Charming suburban home with a spacious backyard. Perfect for families looking for a peaceful retreat.",
+        "price": 350000,
+        "category": "House",
+        "image": "https://th.bing.com/th/id/R.51e5ab3c130dc63b640ad2f4edb2c759?rik=7TNAeE4QZsGtlQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 3,
+        "title": "Luxury Villa by the Beach",
+        "description": "Exquisite villa located steps away from the beach. Features a private pool and breathtaking ocean views.",
+        "price": 750000,
+        "category": "Villa",
+        "image": "https://th.bing.com/th/id/R.4900589b2fe165ec3b0051d50c7af706?rik=C9lp9RWYOfHPIw&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 4,
+        "title": "Downtown Loft with City Views",
+        "description": "Stylish loft apartment in the heart of downtown. Enjoy panoramic city views from the floor-to-ceiling windows.",
+        "price": 300000,
+        "category": "Apartment",
+        "image": "https://th.bing.com/th/id/R.51e5ab3c130dc63b640ad2f4edb2c759?rik=7TNAeE4QZsGtlQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 5,
+        "title": "Family-Friendly Suburban Home",
+        "description": "Spacious suburban home perfect for families. This family-friendly home features multiple bedrooms, a large backyard, and a finished basement.",
+        "price": 400000,
+        "category": "House",
+        "image":"https://th.bing.com/th/id/R.51e5ab3c130dc63b640ad2f4edb2c759?rik=7TNAeE4QZsGtlQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 6,
+        "title": "Seaside Cottage Retreat",
+        "description": "Quaint seaside cottage nestled along the coast. Escape the hustle and bustle of city life and relax in this charming retreat.",
+        "price": 200000,
+        "category": "House",
+        "image": "https://th.bing.com/th/id/R.51e5ab3c130dc63b640ad2f4edb2c759?rik=7TNAeE4QZsGtlQ&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 7,
+        "title": "Mountain Chalet with Scenic Views",
+        "description": "Rustic mountain chalet with breathtaking views. Experience the beauty of nature from this cozy retreat nestled in the mountains.",
+        "price": 500000,
+        "category": "Chalet",
+        "image": "https://th.bing.com/th/id/OIP.PrIifrKOPT1HhItgtP8dKAHaFk?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 8,
+        "title": "Urban Penthouse with Panoramic Skyline Views",
+        "description": "Luxurious penthouse apartment with panoramic skyline views. Live in the lap of luxury with high-end finishes and exclusive amenities.",
+        "price": 1000000,
+        "category": "Apartment",
+        "image": "https://th.bing.com/th/id/R.8e627feaf3b0de6d24e59aefb1f99680?rik=c75WGsM1Zx9xHw&riu=http%3a%2f%2fwww.cube3studio.com%2fwp-content%2fuploads%2f2015%2f04%2fApartments-in-Wakefield-Exterior-Dusk.jpg&ehk=wRe0NQWqR34TO1QAVV%2bV9pzlHXQtk52DlmjIlJGADD4%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 9,
+        "title": "Elegant Colonial Mansion",
+        "description": "Grand colonial mansion with timeless elegance. Step back in time and experience the charm of yesteryear in this meticulously restored mansion.",
+        "price": 1500000,
+        "category": "Mansion",
+        "image": "https://th.bing.com/th/id/R.59a5c99f01c3b84effac7a0a8d0a4ef1?rik=IxJQuvXJpJsaYA&riu=http%3a%2f%2fwww.topdreamer.com%2fwp-content%2fuploads%2f2014%2f12%2f2.jpg&ehk=ApWAXzGAHnWMQa7mJ%2bkZAC1RazKD55bMlyU2tUncH%2fU%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 10,
+        "title": "Luxury Beachfront Condo",
+        "description": "Sophisticated beachfront condo with panoramic ocean views. Live the resort lifestyle in this exclusive oceanfront residence.",
+        "price": 900000,
+        "category": "Condo",
+        "image": "https://th.bing.com/th/id/OIP.RLBjfdl8meIYqDGdpcc_4gHaED?rs=1&pid=ImgDetMain"
+      }
+    ]
+  }
+  
