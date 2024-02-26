@@ -9,6 +9,8 @@ This Vue3.js project is designed for property management, providing various func
 - **View Details**: View detailed information about each house.
 - **Purchase Functionality**: Enable users to purchase houses.
 - **Shopping Cart**: Manage items added for purchase.
+##Technologies Used
+Vue.js 3
 
 ## Installation
 
@@ -20,6 +22,4 @@ git clone  https://github.com/DawitMinale/property-management.git
 npm install
 npm run dev
 
-##Technologies Used
-Vue.js 3
 
