@@ -1,29 +1,25 @@
-# property-management
+# Vue3 Property Management Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This Vue3.js project is designed for property management, providing various functionalities such as listing houses, categorizing house lists, viewing details, purchasing, and managing a shopping cart.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **Listing Houses**: Display a list of available houses.
+- **Categorization**: Categorize houses based on different criteria.
+- **View Details**: View detailed information about each house.
+- **Purchase Functionality**: Enable users to purchase houses.
+- **Shopping Cart**: Manage items added for purchase.
 
-## Customize configuration
+## Installation
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clone the repository:
 
-## Project Setup
+```bash
+git clone  https://github.com/DawitMinale/property-management.git
 
-```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+##Technologies Used
+Vue.js 3
 
-```sh
-npm run build
-```
